@@ -7,8 +7,7 @@ Created on Sat Jan 18 17:26:27 2025
 
 # -*- coding: utf-8 -*-
 """
-Cálculo de la matriz Bpp' (producto-producto) basada en la teoría de taxonomía de productos y
-creación de un grafo jerárquico con eliminación de conexiones redundantes.
+Red de Taxonomía de Productos. Modelo Ficticio
 """
 
 import numpy as np
