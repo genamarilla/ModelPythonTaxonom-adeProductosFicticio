@@ -16,7 +16,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 # Cargar datos desde Excel
-file_path = r"C:\\Users\\Gene\\Documents\\TFG 2024\\BDD_ficticia.xlsx"
+file_path = r"Insetar ruta de archivo de la base de datos"
 EXP_df = pd.read_excel(file_path, header=0, index_col=0)
 
 # Extraer países y productos
